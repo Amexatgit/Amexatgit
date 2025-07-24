@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amey</h1>
 <h3 align="center">A passionate DSA & Database developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amexatgit&label=Profile%20views&color=0e75b6&style=flat" alt="amexatgit" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amexatgit" alt="amexatgit" /></a> </p>
 
