@@ -3,8 +3,8 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amexatgit" alt="amexatgit" /></a> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=amexatgit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 - 🌱 I’m currently learning **DSA in c++**
 
 - 💬 Ask me about **Git,Algorithms,DBMS**
